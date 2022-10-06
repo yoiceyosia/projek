@@ -1,0 +1,52 @@
+body {
+    background-color: rgb(79, 185, 154);
+    font-family: 'Ubuntu', sans-serif;
+}
+img.one {
+    width: 300px;
+    height: 200px;
+    margin: 20px 0px 30px 350px;
+}
+img.two {
+    width: 300px;
+    height: 200px;
+    margin: 20px 300px 30px 0px;
+}
+h2 {
+    outline-style: solid;
+    outline-color:rgb(81, 64, 228);
+    background-color: rgb(255, 255, 255);
+    border-style: double;
+    border-radius: 5px;
+    margin: 10px 400px 10px 400px;
+    padding: 15px 15px 15px 10px;
+    border-color: rgb(8, 47, 92);
+    text-align: center;
+    font-family: 'Ubuntu';
+}
+p.one {
+    background-color: rgb(35, 223, 223);
+    border-style: solid;
+    border-color: blue;
+    margin: 10px 60px 10px 80px;
+    padding: 10px 20px 10px 20px;
+    font-family: 'Ubuntu';
+}
+p.two {
+    font-family: 'Ubuntu';
+    background-color: rgb(27, 54, 129);
+    color: white;
+    border-style: dotted;
+    border-color: rgb(13, 255, 255);
+    margin: 10px 60px 10px 600px;
+    padding: 2px 70px 20px 10px;
+}
+p.three {
+    font-family: 'Ubuntu';
+    background-color: rgb(112, 253, 175);
+    outline-style: dashed;
+    outline-color: green;
+    margin: 10px 700px 30px 80px;
+    padding: 10px 10px 20px 15px;
+
+}
