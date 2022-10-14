@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="21px" height="21px" viewBox="0 0 21 21" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>ic_linkedin</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="footer" transform="translate(-1092.000000, -203.000000)">
+            <g id="Group-3" transform="translate(970.000000, 203.000000)">
+                <g id="Group-2">
+                    <g id="Group-5-Copy" transform="translate(122.000000, 0.000000)">
+                        <rect id="Rectangle-2-Copy-2" x="0" y="0" width="21" height="21"></rect>
+                        <path d="M3,0 L18,0 C19.6568542,-3.04359188e-16 21,1.34314575 21,3 L21,18 C21,19.6568542 19.6568542,21 18,21 L3,21 C1.34314575,21 2.02906125e-16,19.6568542 0,18 L0,3 C-2.02906125e-16,1.34314575 1.34314575,3.04359188e-16 3,0 Z M5.500401,7.4 C6.32859562,7.4 7,6.72919619 7,5.90080625 C7,5.07168336 6.32859562,4.4 5.500401,4.4 C4.67140438,4.4 4,5.07168336 4,5.90080625 C4,6.72919619 4.67140438,7.4 5.500401,7.4 Z M4,17 L7,17 L7,8.3 L4,8.3 L4,17 Z M11.0043852,12.2587714 C11.0043852,11.2582031 11.4752919,10.2797493 12.6012823,10.2797493 C13.7272727,10.2797493 14.004136,11.2582031 14.004136,12.2348517 L14.004136,17 L17,17 L17,12.0400334 C17,8.59408274 14.9737555,8 13.7272727,8 C12.4818365,8 11.7949106,8.42348517 11.0043852,9.44962808 L11.0043852,8.27500209 L8,8.27500209 L8,17 L11.0043852,17 L11.0043852,12.2587714 Z" id="Combined-Shape" fill="#FFFFFF"></path>
+                        <g id="Group-9" transform="translate(5.000000, 5.000000)"></g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
